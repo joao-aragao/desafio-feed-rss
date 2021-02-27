@@ -43,6 +43,6 @@ def getUrl(url):
 
 
 # Chamando função getUrl
-getUrl('https://www.portugal-a-programar.pt/forums/topic/11371-inverter-ordem-em-string/')
+getUrl('https://rss-feed-flowpodcast-2eqj3fl3la-ue.a.run.app/feed/rss')
 # getUrl('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml')
 # getUrl('https://g1.globo.com/rss/g1/carros/')
