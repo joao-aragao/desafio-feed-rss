@@ -25,7 +25,7 @@ def getUrl(url):
     # crio lista para receber tudo que achou de item
     lista_itens = []
 
-    # crio for para listar item dentro de itens:
+    # crio for para listar ites:
     for item in itens:
         # Setto um dicionário para adicionar os itens exibidos a lista_itens
         dic_item = {}
