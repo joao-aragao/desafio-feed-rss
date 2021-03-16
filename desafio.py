@@ -25,9 +25,9 @@ def getUrl(url):
     # crio lista para receber tudo que achou de item
     lista_itens = []
 
-    # crio for para listar ites:
+    # crio for para listar itens:
     for item in itens:
-        # Setto um dicionário para adicionar os itens exibidos a lista_itens
+        # Seto um dicionário para adicionar os itens exibidos a lista_itens
         dic_item = {}
         # Pegando link
         dic_item['site:'] = item.link.text
